@@ -4,19 +4,13 @@ Changer votre cache DNS peut être bénéfique pour améliorer la vitesse de nav
 #
 Les serveurs DNS publics (comme Cloudflare {1.1.1.1] ou Google DNS [8.8.8.8]) sont souvent plus rapides que ceux de votre FAI qui peuvent parfois être « pourris »..
 #
-Ce script a l'air tout droit sorti d'un ordinateur MS-DOS de 1985 avec ses bordures en ASCII art, ses couleurs cyan et blanc, et ses "=-=-=-=" partout... 
+Ce script a l'air tout droit sorti d'un ordinateur MS-DOS de 1985 avec ses bordures en ASCII art, ses couleurs vintage, et ses "=-=-=-=" partout... 
 #
 On s'attend presque à ce qu'il nous demande d'insérer une disquette 5¼ pouces ! 💾. 
 #
+Ou pire, à insérer une cassette dans un TO7 ou un MO5 de chez Thomson. A l'époque les PC étaient gros et nous minces 😉...
+#
 Les quinquas et séniors comprendront 💖.
-#
-La 2CV, ça rappelle une époque où on faisait avec moins, mais mieux.
-#
-Cloudflare {1.1.1.1] c’est un peu ça : moins de collecte de données, moins de filtres imposés, moins de latence… mais plus de confiance, plus de vitesse, plus de sérénité en ligne.
-#
-Parfois, les solutions les plus élégantes sont les plus simples. Et ça, ça fait du bien. 😌
-#
-Ne surtout pas se fier aux apparences.
 #
 ✅ Interface vintage années 80 ? 
 # OUI
