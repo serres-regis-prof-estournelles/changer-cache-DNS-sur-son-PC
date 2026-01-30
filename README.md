@@ -1,4 +1,4 @@
-## Changement de cache DNS sous Windows 11
+## Changement de cache DNS sous Windows 11 ##
 #
 Changer votre cache DNS peut être bénéfique pour améliorer la vitesse de navigation sur Internet. 
 #
@@ -13,13 +13,13 @@ Ou pire, à insérer une cassette dans un TO7 ou un MO5 de chez Thomson. A l'ép
 Les quinquas et séniors comprendront 💖.
 #
 ✅ Interface vintage années 80 ? 
-## OUI
+## OUI ##
 ✅ Fonctionne parfaitement en 2026 sous Windows 11 ? 
-## OUI
+## OUI ##
 ✅ DNS vraiment modifiées ? 
-## OUI
+## OUI ##
 ✅ Plus rapide que le DNS de votre FAI ? 
-## OUI
+## OUI ## 
 ✅ L’impression de rajeunir de plusieurs années ? 
 ## OUI
 #
@@ -44,5 +44,5 @@ Les quinquas et séniors comprendront 💖.
 2️⃣ Votre DNS est maintenant configuré sur Cloudflare 1.1.1.1. C'est exactement ce qu'on voulait. Votre connexion utilise maintenant le DNS le plus rapide. 
 #
 😄 Le look années 80 n'a pas menti : visuellement vintage, techniquement efficace ! 
-
-
+#
+👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
