@@ -45,4 +45,4 @@ Les quinquas et séniors comprendront 💖.
 #
 😄 Le look années 80 n'a pas menti : visuellement vintage, techniquement efficace ! 
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
