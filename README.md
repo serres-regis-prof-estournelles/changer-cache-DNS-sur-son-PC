@@ -1,14 +1,14 @@
 ## Changement de cache DNS sous Windows 11 ##
 #
-Changer votre cache DNS peut être bénéfique pour améliorer la vitesse de navigation sur Internet. 
+Changer votre cache DNS peut être bénéfique pour **améliorer la vitesse de navigation sur Internet**. 
 #
-Les serveurs DNS publics (comme Cloudflare {1.1.1.1] ou Google DNS [8.8.8.8]) sont souvent plus rapides que ceux de votre FAI qui peuvent parfois être « pourris »..
+Les serveurs DNS publics (comme **Cloudflare {1.1.1.1]** ou **Google DNS [8.8.8.8])** sont souvent plus rapides que ceux de votre FAI qui peuvent parfois être « pourris »..
 #
 Ce script a l'air tout droit sorti d'un ordinateur MS-DOS de 1985 avec ses bordures en ASCII art, ses couleurs vintage, et ses "=-=-=-=" partout... 
 #
 On s'attend presque à ce qu'il nous demande d'insérer une disquette 5¼ pouces ! 💾. 
 #
-Ou pire, à insérer une cassette dans un TO7 ou un MO5 de chez Thomson. A l'époque les PC étaient gros et nous minces 😉...
+Ou pire, à insérer une cassette dans un TO7 ou un MO5 de chez Thomson. A l'époque les PC étaient gros et nous, minces 😉...
 #
 Les quinquas et séniors comprendront 💖.
 #
@@ -27,15 +27,15 @@ Les quinquas et séniors comprendront 💖.
 #
 1️⃣ Télécharger et enregistrer sur C : le fichier **changement_dns.bat**
 #
-2️⃣ Exécuter en tant qu'administrateur (Se positionner sur le fichier + clic droit de la souris)
+2️⃣ Exécuter **en tant qu'administrateur** (Se positionner sur le fichier + clic droit de la souris)
 #
-2️⃣ L'éditeur n'a pas pu être vérifié. Voulez-vous vraiment exécuter ce logiciel ? Cliquer sur [Exécuter]
+2️⃣ L'éditeur n'a pas pu être vérifié. Voulez-vous vraiment exécuter ce logiciel ? Cliquer sur **[Exécuter]**
 #
 📌 Comment savoir si le cache DNS a bien été changé ? (Exemple : vous désirez choisir le DNS Cloudflare)
 #
-1️⃣ Cliquer simultanément sur les touches Windows + R
+Appuyez simultanément sur les touches **Windows + R**
 #
-2️⃣ Dans la fenêtre qui s'affiche, saisir cmd
+2️⃣ Dans la fenêtre qui s'affiche, saisir **cmd**
 #
 2️⃣ Saisir **ipconfig/all**
 #
